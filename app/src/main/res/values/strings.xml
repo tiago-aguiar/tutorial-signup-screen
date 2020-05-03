@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SignUpScreen</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="password">password</string>
+    <string name="email_or_username">email or username</string>
+    <string name="because_you_re_worth_it">Because You\'re Worth It.</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="description">"Our floating pale blue ark of endless forms most beautiful"</string>
+    <string name="sigin_with_facebook">SigIn with Facebook</string>
+</resources>
